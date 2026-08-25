@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Alejandro P. Silva 👋
+# Olá, eu sou Ninjaagoo 👋
 
 ### Desenvolvedor de aplicações desktop e estudante de Ciência da Computação
 
@@ -34,8 +34,8 @@ Aplicativo desktop para jogadores, construtores e administradores de Minecraft. 
 - atualizações assinadas, armazenamento protegido de credenciais e backups controlados.
 
 <div align="center">
-  <a href="https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases">
-    <img src="https://raw.githubusercontent.com/AlejandroPSilva/Panda-Gordos-Pro-Releases/main/assets/app-overview.png" width="92%" alt="Tela inicial do Pandas Gordos PRO" />
+  <a href="https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases">
+    <img src="https://raw.githubusercontent.com/Ninjaagoo/Panda-Gordos-Pro-Releases/main/assets/app-overview.png" width="92%" alt="Tela inicial do Pandas Gordos PRO" />
   </a>
 </div>
 
@@ -63,10 +63,10 @@ Aplicativo desktop para jogadores, construtores e administradores de Minecraft. 
 
 | Projeto | Tecnologias | Descrição |
 | --- | --- | --- |
-| [Pandas Gordos PRO](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases) | Rust, Tauri, React, TypeScript, C | Aplicativo desktop e toolkit técnico para Minecraft Java e Bedrock. |
-| [KNN Fruit Classifier](https://github.com/AlejandroPSilva/KNN-Fruit-Classifier-C) | C | Classificador de frutas desenvolvido para praticar o algoritmo K-Nearest Neighbors. |
-| [Refúgio da Serra FullStack](https://github.com/AlejandroPSilva/Refugio-da-Serra-FullStack) | JavaScript, Web | Projeto full stack voltado ao desenvolvimento e integração de uma aplicação web. |
-| [Atividades em C](https://github.com/AlejandroPSilva/Atividades-em-C) | C | Exercícios e estudos de lógica, algoritmos e fundamentos da linguagem C. |
+| [Pandas Gordos PRO](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases) | Rust, Tauri, React, TypeScript, C | Aplicativo desktop e toolkit técnico para Minecraft Java e Bedrock. |
+| [KNN Fruit Classifier](https://github.com/Ninjaagoo/KNN-Fruit-Classifier-C) | C | Classificador de frutas desenvolvido para praticar o algoritmo K-Nearest Neighbors. |
+| [Refúgio da Serra FullStack](https://github.com/Ninjaagoo/Refugio-da-Serra-FullStack) | JavaScript, Web | Projeto full stack voltado ao desenvolvimento e integração de uma aplicação web. |
+| [Atividades em C](https://github.com/Ninjaagoo/Atividades-em-C) | C | Exercícios e estudos de lógica, algoritmos e fundamentos da linguagem C. |
 
 ## O que estou estudando
 
@@ -80,8 +80,8 @@ Aplicativo desktop para jogadores, construtores e administradores de Minecraft. 
 
 Encontrou uma ideia interessante, quer acompanhar o projeto ou reportar um problema?
 
-- Consulte o [Pandas Gordos PRO](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases).
-- Abra uma [issue pública](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases/issues/new).
+- Consulte o [Pandas Gordos PRO](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases).
+- Abra uma [issue pública](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases/issues/new).
 - Acompanhe meus novos projetos e estudos aqui no GitHub.
 
 <div align="center">
