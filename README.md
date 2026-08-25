@@ -6,8 +6,8 @@
 
 Transformo ideias em ferramentas úteis, com atenção à experiência do usuário, organização do código e segurança. Atualmente desenvolvo o **Pandas Gordos PRO**, uma bancada desktop completa para Minecraft.
 
-[![Pandas Gordos PRO](https://img.shields.io/badge/Pandas_Gordos_PRO-conhecer_o_projeto-16A34A?style=for-the-badge)](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases)
-[![Releases](https://img.shields.io/badge/Download-versão_mais_recente-111111?style=for-the-badge&logo=github)](https://github.com/AlejandroPSilva/Panda-Gordos-Pro-Releases/releases/latest)
+[![Pandas Gordos PRO](https://img.shields.io/badge/Pandas_Gordos_PRO-conhecer_o_projeto-16A34A?style=for-the-badge)](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases)
+[![Releases](https://img.shields.io/badge/Download-versão_mais_recente-111111?style=for-the-badge&logo=github)](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases/releases/latest)
 
 </div>
 
