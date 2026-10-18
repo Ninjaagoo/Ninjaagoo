@@ -43,21 +43,21 @@ Aplicativo desktop para jogadores, construtores e administradores de Minecraft. 
 
 ### Principais
 
-![Rust](https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri_2-111111?style=flat-square&logo=tauri&logoColor=24C8DB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React_19-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF)
-![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css&logoColor=663399)
+<img src="https://img.shields.io/badge/Rust-111111?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" height="40">
+<img src="https://img.shields.io/badge/Tauri_2-111111?style=flat-square&amp;logo=tauri&amp;logoColor=24C8DB" alt="Tauri" height="40">
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" height="40">
+<img src="https://img.shields.io/badge/React_19-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="40">
+<img src="https://img.shields.io/badge/Vite-111111?style=flat-square&amp;logo=vite&amp;logoColor=646CFF" alt="Vite" height="40">
+<img src="https://img.shields.io/badge/CSS-111111?style=flat-square&amp;logo=css&amp;logoColor=663399" alt="CSS" height="40">
 
 ### Formação e outros projetos
 
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/C-111111?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC" alt="C" height="40">
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" height="40">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" height="40">
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" height="40">
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" height="40">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" height="40">
 
 ## Projetos selecionados
 
