@@ -61,14 +61,14 @@ Aplicativo desktop para jogadores, construtores e administradores de Minecraft. 
 
 ## Projetos selecionados
 
-| Projeto | Tecnologias | Descrição |
-| --- | --- | --- |
-| [Pandas Gordos PRO](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases) | Rust, Tauri, React, TypeScript, C | Aplicativo desktop e toolkit técnico para Minecraft Java e Bedrock. |
-| [Apagador em Java e C](https://github.com/Ninjaagoo/Apagador-Em-Java-C) | Java, C | Projeto de estudos que integra um menu em Java a ferramentas de limpeza em C para Windows. |
-| [Jogo da Velha](https://github.com/Ninjaagoo/JogoDaVelha) | C | Jogo de terminal para dois jogadores ou contra o computador, criado para praticar matrizes. |
-| [KNN Fruit Classifier](https://github.com/Ninjaagoo/KNN-Fruit-Classifier-C) | C | Classificador de frutas desenvolvido para praticar o algoritmo K-Nearest Neighbors. |
-| [Refúgio da Serra FullStack](https://github.com/Ninjaagoo/Refugio-da-Serra-FullStack) | JavaScript, Web | Projeto full stack voltado ao desenvolvimento e integração de uma aplicação web. |
-| [Atividades em C](https://github.com/Ninjaagoo/Atividades-em-C) | C | Exercícios e estudos de lógica, algoritmos e fundamentos da linguagem C. |
+| Projeto                                                                               | Tecnologias                       | Descrição                                                                                   |
+| ------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Pandas Gordos PRO](https://github.com/Ninjaagoo/Panda-Gordos-Pro-Releases)           | Rust, Tauri, React, TypeScript, C | Aplicativo desktop e toolkit técnico para Minecraft Java e Bedrock.                         |
+| [Apagador em Java e C](https://github.com/Ninjaagoo/Apagador-Em-Java-C)               | Java, C                           | Projeto de estudos que integra um menu em Java a ferramentas de limpeza em C para Windows.  |
+| [Jogo da Velha](https://github.com/Ninjaagoo/JogoDaVelha)                             | C                                 | Jogo de terminal para dois jogadores ou contra o computador, criado para praticar matrizes. |
+| [KNN Fruit Classifier](https://github.com/Ninjaagoo/KNN-Fruit-Classifier-C)           | C                                 | Classificador de frutas desenvolvido para praticar o algoritmo K-Nearest Neighbors.         |
+| [Refúgio da Serra FullStack](https://github.com/Ninjaagoo/Refugio-da-Serra-FullStack) | JavaScript, Web                   | Projeto full stack voltado ao desenvolvimento e integração de uma aplicação web.            |
+| [Atividades em C](https://github.com/Ninjaagoo/Atividades-em-C)                       | C                                 | Exercícios e estudos de lógica, algoritmos e fundamentos da linguagem C.                    |
 
 ## O que estou estudando
 
